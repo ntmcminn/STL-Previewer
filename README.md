@@ -14,3 +14,6 @@ hints:
 
 - How to avoid overloading of: org/alfresco/components/preview/web-preview.get.config.xml, see: 
 https://github.com/share-extras/media-viewers/blob/master/config/webscripts/org/sharextras/customization/media-previews/pdfjs-config-experimental/web-preview.get.js
+
+This code was developed at the Alfresco Summit hack-a-thon 2013 Barcelona by 
+Vitali Belenki and Erik Kirs
