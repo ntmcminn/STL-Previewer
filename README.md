@@ -4,7 +4,7 @@ How to use it:
 - Copy share-stl-preview.jar to the classpath (such as webapps/share/WEB-INF/lib)
 - Restart Alfresco
 - Upload STL files to the document library
-- Click to details, to see the WebPreview
+- Click to details, to see the WebPreview 
 
 TODO
 - Convert this project over to an Alfresco AMP for the Share and Repo tiers
